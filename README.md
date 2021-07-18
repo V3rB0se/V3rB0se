@@ -14,7 +14,7 @@
 
 
 - 🔭 I’m currently working on html5 2d canvas project
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript & C# 
 - 📫 Contact : [Protonmail](mailto:alynx957@protonmail.com?subject=Hi) [Instagram](https://www.instagram.com/alinx.pyy/)
 
 
