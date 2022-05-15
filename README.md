@@ -1,10 +1,17 @@
+
 <br>
 
 [![Aliyan Aslam](https://github-readme-stats.vercel.app/api?username=v3rb0se&show_icons=true&theme=merko)](#)
 
+<p> 
+  <img src="https://profile-counter.glitch.me/v3rb0se/count.svg" />
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v3rb0se&layout=compact&theme=merko)](#)
 
 <br>
+
+
 
 Updated Repositories
 
