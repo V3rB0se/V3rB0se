@@ -18,8 +18,8 @@ Updated Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v3rb0se&repo=Snapcrap&theme=merko)](https://github.com/V3rB0se/Snapcrap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v3rb0se&repo=Canvas-Particles-System&theme=merko)](https://github.com/V3rB0se/Canvas-Particles-System)
 
-- 🔭 "I’m currently working on html5 2d canvas project
+- 🔭 Currently working on Nethunter kernel development
 - 🌱 learning ${javascript} & ${C#}" 
-- 📫 Contact : [Protonmail](mailto:alynx957@protonmail.com?subject=Hi) [Instagram](https://www.instagram.com/alinx.pyy/)
+- 📫 Contact : [Protonmail](mailto:alynx957@protonmail.com?subject=Hi)
 
 
