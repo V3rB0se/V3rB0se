@@ -17,9 +17,3 @@ Updated Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v3rb0se&repo=Snapcrap&theme=merko)](https://github.com/V3rB0se/Snapcrap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v3rb0se&repo=Canvas-Particles-System&theme=merko)](https://github.com/V3rB0se/Canvas-Particles-System)
-
-- 🔭 Currently working on Nethunter kernel development
-- 🌱 learning ${javascript} & ${C#}" 
-- 📫 Contact : [Protonmail](mailto:alynx957@protonmail.com?subject=Hi)
-
-
