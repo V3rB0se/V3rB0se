@@ -1,4 +1,6 @@
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=v3rb0se)](https://git.io/streak-stats)
+
 <br>
 
 [![Aliyan Aslam](https://github-readme-stats.vercel.app/api?username=v3rb0se&show_icons=true&theme=merko)](#)
