@@ -1,5 +1,5 @@
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=v3rb0se&theme=github-dark&border_radius=25&fire=D5DD00)](https://alynx.github.io/)
+[![GitHub Streak](https://streak-stats.demolab.com?user=v3rb0se&theme=github-dark&border_radius=5&fire=D5DD00)](https://alynx.github.io/)
 
 <br>
 
