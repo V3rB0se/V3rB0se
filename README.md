@@ -1,6 +1,4 @@
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=v3rb0se&theme=github-dark&border_radius=5&fire=D5DD00)](https://alynxhost.github.io/)
-
 <br>
 
 [![Aliyan Aslam](https://github-readme-stats.vercel.app/api?username=v3rb0se&show_icons=true&theme=merko)](#)
