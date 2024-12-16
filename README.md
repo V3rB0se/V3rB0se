@@ -1,1 +1,1 @@
-alynx@pixsofts.com
+aliyan@onscreensolution.co
